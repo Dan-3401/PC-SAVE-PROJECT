@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-18a0fb?style=for-the-badge)](https://github.com/Dan-0721/PC-SAVE-PROJECT/releases/latest)
 [![Engine](https://img.shields.io/badge/engine-Ren'Py%208.5.2-ff477e?style=for-the-badge)](https://www.renpy.org/)
 
-[Download v1.0](https://github.com/Dan-0721/PC-SAVE-PROJECT/releases/latest) · [Intro Page](https://dan-0721.github.io/PC-SAVE-PROJECT/)
+[Download v1.0](https://github.com/Dan-3401/PC-SAVE-PROJECT/releases/latest) · [Intro Page](https://dan-3401.github.io/PC-SAVE-PROJECT/)
 
 </div>
 
